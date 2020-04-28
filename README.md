@@ -49,12 +49,15 @@ video-game-sales-analysis/
 The only notebook in the project contains all the code of the analysis (notebook/video-game-sales-analysis.ipynb).
 
 The data was downloaded from Kaggle:
-https://www.kaggle.com/gregorut/videogamesales
+[Video Game Sales](https://www.kaggle.com/gregorut/videogamesales)
 (data/vgsales.csv.zip).
 
 The image folder contains all the images generated during the analysis (code in the notebook).
 
 ## Results
+
+I've published a Data Storytelling post to share my results. You can find it here:
+[What is the most successful video game platform in history?](https://medium.com/@tomasborrella/what-is-the-most-successful-video-game-platform-in-history-a18dfab20a41)
 
 #### 1 - What is the most successful video game console in history?
 
