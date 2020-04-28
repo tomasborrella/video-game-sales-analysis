@@ -60,7 +60,7 @@ The image folder contains all the images generated during the analysis (code in 
 
 The data was collected in mid-2016, so we can only answer the question until then.
 
-I have considered that the most successful console is the one with the highest sales of video game units worldwide. And the winner is **Play Station 2**, with more than 1.200 Million units sold.
+I have considered that the most successful console is the one with the highest sales of video game units worldwide. And the winner is **PlayStation 2**, with more than 1.200 Million units sold.
 
 ![most successful video game console bar chart race](images/animation.gif)
 
