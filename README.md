@@ -18,7 +18,7 @@ ipython 7.12.0
 
 ## Project Motivation
 
-I'm passionate about video games. I was curious to answer some questions related to games, consoles and trends and I decided to look for answers in the data:
+I'm passionate about video games. I was curious to answer some questions related to games, platforms and trends and I decided to look for answers in the data:
 
 1 - What is the most successful video game console in history?
 
@@ -46,13 +46,13 @@ video-game-sales-analysis/
     └── video-game-sales-analysis.ipynb
 ```
 
-The only notebook in the project contains all the code of the analysis (notebook/video-game-sales-analysis.ipynb).
+**notebook** folder contains the only notebook in the project with all the code for the analysis (*notebook/video-game-sales-analysis.ipynb*).
 
-The data was downloaded from Kaggle:
+**data** folder contains the data that was downloaded from Kaggle:
 [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales)
-(data/vgsales.csv.zip).
+(*data/vgsales.csv.zip*).
 
-The image folder contains all the images generated during the analysis (code in the notebook).
+**images** folder contains all the images generated during the analysis (code in the notebook).
 
 ## Results
 
